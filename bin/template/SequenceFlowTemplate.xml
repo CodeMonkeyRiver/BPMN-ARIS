@@ -1,0 +1,12 @@
+<sequenceFlow sourceRef="$SOURCE_GUID" targetRef="$TARGET_GUID" name="$SEQUENCE" id="$SEQUENCE">
+     <extensionElements>
+         <ns5:OracleExtensions>
+             <ns5:SequenceFlowAttributes/>
+             <ns5:FeatureSet>
+                 <ns5:BooleanFeature value="false" name="collapseMessage"/>
+                 <ns5:StringFeature value="$CONSTANT" name="curve"/>
+                 <ns5:StringFeature value="STRAIGHT" name="routing"/>
+             </ns5:FeatureSet>
+         </ns5:OracleExtensions>
+     </extensionElements>
+</sequenceFlow>

@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><AML>		$DEFINE		<Model Model.Type="$MODEL_NAME">			<GUID>ed63ca80-aa4d-11e2-164e-f81edfe0cb2b</GUID>			<AttrDef AttrDef.Type="AT_NAME">				<AttrValue>                                BPMN测试流程				</AttrValue>			</AttrDef>		$OCC		</Model></AML>

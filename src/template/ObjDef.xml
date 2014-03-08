@@ -1,0 +1,8 @@
+<ObjDef TypeNum="OT_事件" SymbolNum="$TYPE">
+	<GUID>$ID</GUID>
+	<AttrDef AttrDef.Type="AT_NAME">
+		<AttrValue>
+        	$NAME
+		</AttrValue>
+	</AttrDef>
+</ObjDef>

@@ -1,0 +1,15 @@
+<ObjOcc SymbolNum="$NAME">
+	<Position Pos.X="$POSITION_X" Pos.Y="$POSITION_Y"/>
+	<Size Size.dX="100" Size.dY="100"/>
+             <GUID>$SOURCE_GUID</GUID>
+	<CxnOcc>
+		<CxnStart>
+           <Position Pos.X="350" Pos.Y="300"/>
+           <GUID>$SOURCE_GUID</GUID>
+      	</CxnStart>
+		<CxnEnd>
+           <Position Pos.X="563" Pos.Y="300"/>
+           <GUID>$TARGET_GUID</GUID>
+       	</CxnEnd>
+	</CxnOcc>
+</ObjOcc>

@@ -1,4 +1,3 @@
 This Project is aimed to transfer the bpmn file to aris's xml file.
 
-Plan:
-ÓÅ»¯¹«¹²ÊôĞÔµÄÊµÏÖ£¬²ÉÓÃ¼Ì³Ğ¹«¹²¸¸ÀàµÄ·½Ê½
+ã€
